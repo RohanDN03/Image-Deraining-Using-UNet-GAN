@@ -22,4 +22,11 @@ Composite generator loss with weights: L1 (1.0) + SSIM (0.1) + Perceptual/VGG (0
 | SEMI | 16.56 | 0.486 |
 | **Our UNet-GAN** | **24.73** | **0.8065** |
 
+## Images
+![Uploading result_4.png…]()
+![Uploading result_3.png…]()
+![Uploading result_2.png…]()
+![Uploading result_1.png…]()
+
+
 > Best SSIM and 2nd best PSNR among all compared models.
